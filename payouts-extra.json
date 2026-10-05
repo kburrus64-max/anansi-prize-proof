@@ -1,0 +1,22 @@
+[
+  {
+    "source": "arcade",
+    "period": "2026-10-04",
+    "game": "Bug Hunt",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0xe21da4bfd87c25255bbfcf8ddd06e314d1b154fcc4109ae00db414e4502dc5ba"
+  },
+  {
+    "source": "arcade",
+    "period": "2026-10-04",
+    "game": "Star Blaster",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0x6137fc8e5e2e030409c88bc1432f5f200807f429456e9d72bce8b7e364d41a67"
+  }
+]
