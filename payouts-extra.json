@@ -1,6 +1,56 @@
 [
   {
     "source": "arcade",
+    "period": "2026-10-05",
+    "game": "Blackjack",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0x4fee5d88577083c5ee37ccb150ff32c0e92a72cc6755d81557f9a6df60371cad"
+  },
+  {
+    "source": "arcade",
+    "period": "2026-10-05",
+    "game": "Bug Hunt",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0x2ea77be6e145b113f05887785cc3f72e94c17236fd6c0ab812c7c95cd02d7250"
+  },
+  {
+    "source": "arcade",
+    "period": "2026-10-05",
+    "game": "Quiz",
+    "rank": null,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 6,
+    "tx": "0x9d0435eb494d39fd31967ae4d1ade59ff937cb8d729d9a3f941314a71ce78afb"
+  },
+  {
+    "source": "arcade",
+    "period": "2026-10-05",
+    "game": "Slots",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0xd43bd4c8aa8037a6bb8755cd825e81e35fa70d82e344884978054cd54967dae5"
+  },
+  {
+    "source": "arcade",
+    "period": "2026-10-05",
+    "game": "Star Blaster",
+    "rank": 1,
+    "who": "anansidata",
+    "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
+    "amount": 100,
+    "tx": "0x713367ee79c6035737bee9f24b9e8143fd9cee3c982a9c0932e9b3cab2151cf1"
+  },
+  {
+    "source": "arcade",
     "period": "2026-10-04",
     "game": "Bug Hunt",
     "rank": 1,
