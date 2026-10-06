@@ -7,7 +7,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0x4fee5d88577083c5ee37ccb150ff32c0e92a72cc6755d81557f9a6df60371cad"
+    "tx": "0x4fee5d88577083c5ee37ccb150ff32c0e92a72cc6755d81557f9a6df60371cad",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -17,7 +19,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0x2ea77be6e145b113f05887785cc3f72e94c17236fd6c0ab812c7c95cd02d7250"
+    "tx": "0x2ea77be6e145b113f05887785cc3f72e94c17236fd6c0ab812c7c95cd02d7250",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -27,7 +31,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 6,
-    "tx": "0x9d0435eb494d39fd31967ae4d1ade59ff937cb8d729d9a3f941314a71ce78afb"
+    "tx": "0x9d0435eb494d39fd31967ae4d1ade59ff937cb8d729d9a3f941314a71ce78afb",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -37,7 +43,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0xd43bd4c8aa8037a6bb8755cd825e81e35fa70d82e344884978054cd54967dae5"
+    "tx": "0xd43bd4c8aa8037a6bb8755cd825e81e35fa70d82e344884978054cd54967dae5",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -47,7 +55,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0x713367ee79c6035737bee9f24b9e8143fd9cee3c982a9c0932e9b3cab2151cf1"
+    "tx": "0x713367ee79c6035737bee9f24b9e8143fd9cee3c982a9c0932e9b3cab2151cf1",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -57,7 +67,9 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0xe21da4bfd87c25255bbfcf8ddd06e314d1b154fcc4109ae00db414e4502dc5ba"
+    "tx": "0xe21da4bfd87c25255bbfcf8ddd06e314d1b154fcc4109ae00db414e4502dc5ba",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   },
   {
     "source": "arcade",
@@ -67,6 +79,8 @@
     "who": "anansidata",
     "address": "0x4B08d9E0C0e0DB53F456Cc72aa46a69584d3f17C",
     "amount": 100,
-    "tx": "0x6137fc8e5e2e030409c88bc1432f5f200807f429456e9d72bce8b7e364d41a67"
+    "tx": "0x6137fc8e5e2e030409c88bc1432f5f200807f429456e9d72bce8b7e364d41a67",
+    "team": true,
+    "note": "Team test payout (sponsor account)"
   }
 ]
